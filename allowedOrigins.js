@@ -4,6 +4,7 @@ const allowedOrigins = [
     'http://localhost:3000',
     'http://localhost:3001',
     'http://localhost:8080',
+    'https://myapp-node-pn7p.onrender.com:443',
     '*'
 ];
 module.exports = allowedOrigins;
