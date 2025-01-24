@@ -1,6 +1,3 @@
-const apiUrlUsuarios = "http://localhost:3000/usuarios";
-const apiUrlProductos = "http://localhost:3000/productos";
-const apiUrlPedidos = "http://localhost:3000/pedidos";
 
 function obtenerUsuarios() {
     fetch(apiUrlUsuarios)
